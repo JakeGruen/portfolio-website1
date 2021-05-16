@@ -7,7 +7,7 @@ body {
 }
 /* ^ I styled the body element with a background image from adobe stock, and set it to repeat throughout the page. Also styled here: the font-family used on the page.*/
 section {
-  color: darkcyan;
+  color: black;
   font-size: 20px;
   text-align: center;
   margin-top: 5px;
@@ -15,11 +15,10 @@ section {
 }
 /* ^ The 'section'container is styled here in order to ensure a uniform font color and size for my page's main content.*/
 header {
-  color: darkcyan;
+  color: black;
   font-size: 20px;
   background-image: url("./images/colorful-clouds.jpeg");
   background-size: 700px;
-  background-color: lightpink;
   border: 5px ridge blanchedalmond;
   padding: 5px;
  }
@@ -48,14 +47,14 @@ hr {
 }
 
 .subheading {
-  color: darkcyan;
+  color: black;
   font-size: 20px;
   text-align: center;
   margin-top: 2px;
 }
 
 a {
-  color: darkcyan;
+  color: black;
   font-size: 18px;
 }
 
